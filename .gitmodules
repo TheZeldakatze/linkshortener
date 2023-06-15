@@ -1,0 +1,3 @@
+[submodule "src/admin/internal/phpseclib"]
+	path = src/admin/internal/phpseclib
+	url = https://github.com/phpseclib/phpseclib/
